@@ -1,0 +1,41 @@
+body{
+    background: #ffff;
+    font-family:sans-serif}
+.container{
+     box-sizing: border-box ;      
+    box-shadow: 0 0 10px gray;
+    width:500px;
+    height: 530px;
+    background-color:gray;
+    margin: auto;
+    margin-top:80px;
+border-radius:15px;
+padding-top:30;}
+.logo{
+    width:250;
+    display:block;
+    margin: auto;
+
+    padding:1;
+    border:3px dashed black;
+    border-radius:50%}
+.title{
+   margin:20px auto;  
+    font-size:25;
+    border-bottom: 7px solid #ffff;
+    width: 250;
+}
+.desc{
+    text-align:center}
+
+.socials{
+    background-color:#ffff;
+    text-align:center;
+}
+.socials img{
+    width:85;
+    border-radius:50%;
+   
+}
+
+
